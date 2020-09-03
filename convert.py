@@ -11,16 +11,16 @@ convert_template = 'convert {}/{} -resize 1600x2904 -background {} -gravity Cent
 
 total_count = 0
 for entry in scandir(input_path):
-	if entry.path.endswith(".jpg") and entry.is_file():
+	if entry.path.endswith('.jpg') and entry.is_file():
 		total_count = total_count + 1
 
 counter = 1
 for entry in scandir(input_path):
-	if entry.path.endswith(".jpg") and entry.is_file():
+	if entry.path.endswith('.jpg') and entry.is_file():
 		name = entry.name
 		magick_rgb = magick_rgb_template.format(input_path, name).split()
 		rgb = subprocess.run(magick_rgb, stdout=subprocess.PIPE).stdout.decode('utf-8').strip('\"')
 		convert = convert_template.format(input_path, name, rgb, output_path, name).split()
 		subprocess.run(convert)
-		print("Processed {}/{}".format(counter, total_count))
+		print('Processed {}/{}'.format(counter, total_count))
 		counter = counter + 1
