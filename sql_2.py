@@ -7,7 +7,7 @@ input_path = 'wallpapers'
 convert_template = 'convert {} -resize 1x1 txt:-'
 sqlite_template = 'INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)\nVALUES (\"{}\", \"{}\", \"{}\", \"{}\");\n'
 
-f = open('pokemon_wallpapers.sql', 'w')
+f = open('pokemon_wallpapers_with_megas.sql', 'w')
 special_pokemon = [
     '203girafarig2.jpg',
     '809melmetal.jpg',
