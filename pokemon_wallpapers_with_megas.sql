@@ -11,13 +11,13 @@ VALUES ("5", "4", "charmander", "FD9745");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("6", "5", "charmeleon", "FE5B4E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("7", "6", "megacharizard-x", "5F6D78");
+VALUES ("7", "6", "charizard", "D98E4D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("8", "6", "megacharizard-y", "EE9349");
+VALUES ("8", "6", "charizard-shiny", "737A77");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("9", "6", "charizard-shiny", "737A77");
+VALUES ("9", "6", "megacharizard-x", "5F6D78");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("10", "6", "charizard", "D98E4D");
+VALUES ("10", "6", "megacharizard-y", "EE9349");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("11", "6", "megacharizard-y-s", "70666D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -27,9 +27,9 @@ VALUES ("13", "7", "squirtle-alt", "96BFBA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("14", "8", "wartortle", "97B1EB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("15", "9", "megablastoise", "8198BB");
+VALUES ("15", "9", "blastoise", "6C8EBD");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("16", "9", "blastoise", "6C8EBD");
+VALUES ("16", "9", "megablastoise", "8198BB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("17", "10", "caterpie", "7BD33B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -41,17 +41,17 @@ VALUES ("20", "13", "weedle", "F3C065");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("21", "14", "kakuna", "F4D34B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("22", "15", "megabeedrill", "ECC25B");
+VALUES ("22", "15", "beedrill", "F1C966");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("23", "15", "beedrill", "F1C966");
+VALUES ("23", "15", "megabeedrill", "ECC25B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("24", "16", "pidgey", "F8E994");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("25", "17", "pidgeotto", "FBE389");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("26", "18", "megapidgeot", "EEE7D3");
+VALUES ("26", "18", "pidgeot", "F9DC87");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("27", "18", "pidgeot", "F9DC87");
+VALUES ("27", "18", "megapidgeot", "EEE7D3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("28", "19", "rattata", "BA7CBA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -69,9 +69,9 @@ VALUES ("34", "23", "ekans", "CE66B1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("35", "24", "arbok", "9D7DB7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("36", "25", "pikachu-f", "F3E152");
+VALUES ("36", "25", "pikachu", "F3E152");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("37", "25", "pikachu", "F3E152");
+VALUES ("37", "25", "pikachu-f", "F3E152");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("38", "26", "raichu", "F3B239");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -101,13 +101,13 @@ VALUES ("50", "35", "clefairy", "FBC1A1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("51", "36", "clefable", "FCC0B0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("52", "37", "vulpix-alolan", "F9FBFD");
+VALUES ("52", "37", "vulpix", "E59063");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("53", "37", "vulpix", "E59063");
+VALUES ("53", "37", "vulpix-alolan", "F9FBFD");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("54", "38", "ninetales-alolan", "CDE5F1");
+VALUES ("54", "38", "ninetales", "F5E57E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("55", "38", "ninetales", "F5E57E");
+VALUES ("55", "38", "ninetales-alolan", "CDE5F1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("56", "39", "jigglypuff", "F7AAA6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -139,13 +139,13 @@ VALUES ("69", "51", "dugtrio", "C57142");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("70", "51", "dugtrio-alolan", "9C7542");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("71", "52", "meowth-alolan", "BABCCE");
+VALUES ("71", "52", "meowth", "F8DB7C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("72", "52", "meowth", "F8DB7C");
+VALUES ("72", "52", "meowth-alolan", "BABCCE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("73", "53", "persian-alolan", "BEC0D5");
+VALUES ("73", "53", "persian", "FCF393");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("74", "53", "persian", "FCF393");
+VALUES ("74", "53", "persian-alolan", "BEC0D5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("75", "54", "psyduck", "FED75A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -169,9 +169,9 @@ VALUES ("84", "63", "abra", "FBE229");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("85", "64", "kadabra", "F9E72E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("86", "65", "megaalakazam", "EBDD8B");
+VALUES ("86", "65", "alakazam", "F9E730");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("87", "65", "alakazam", "F9E730");
+VALUES ("87", "65", "megaalakazam", "EBDD8B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("88", "66", "machop", "96BDBA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -189,17 +189,17 @@ VALUES ("94", "72", "tentacool", "70ABD7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("95", "73", "tentacruel", "7EA9CB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("96", "74", "geodude-alolan", "B7BACC");
+VALUES ("96", "74", "geodude", "B4B49C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("97", "74", "geodude", "B4B49C");
+VALUES ("97", "74", "geodude-alolan", "B7BACC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("98", "75", "graveler-alolan", "AAA9A0");
+VALUES ("98", "75", "graveler", "B4B39B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("99", "75", "graveler", "B4B39B");
+VALUES ("99", "75", "graveler-alolan", "AAA9A0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("100", "76", "golem-alolan", "95948C");
+VALUES ("100", "76", "golem", "959645");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("101", "76", "golem", "959645");
+VALUES ("101", "76", "golem-alolan", "95948C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("102", "77", "ponyta", "FBE3BC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -225,13 +225,13 @@ VALUES ("112", "86", "seel", "E6E4F3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("113", "87", "dewgong", "E4E4F4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("114", "88", "grimer-alolan", "779C73");
+VALUES ("114", "88", "grimer", "C685BF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("115", "88", "grimer", "C685BF");
+VALUES ("115", "88", "grimer-alolan", "779C73");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("116", "89", "muk-alolan", "829A7B");
+VALUES ("116", "89", "muk", "B473B5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("117", "89", "muk", "B473B5");
+VALUES ("117", "89", "muk-alolan", "829A7B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("118", "90", "shellder", "9983B5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -241,9 +241,9 @@ VALUES ("120", "92", "gastly", "544252");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("121", "93", "haunter", "A761C6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("122", "94", "gengar2", "8F76B6");
+VALUES ("122", "94", "gengar", "876FB3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("123", "94", "gengar", "876FB3");
+VALUES ("123", "94", "gengar2", "8F76B6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("124", "94", "megagengar", "6B5074");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -265,17 +265,17 @@ VALUES ("132", "101", "electrode", "FA606E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("133", "102", "exeggcute", "F5B69E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("134", "103", "exeggutor-alolan-alt", "9E8A5E");
+VALUES ("134", "103", "exeggutor", "B7AD51");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("135", "103", "exeggutor-alolan", "A2815E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("136", "103", "exeggutor", "B7AD51");
+VALUES ("136", "103", "exeggutor-alolan-alt", "9E8A5E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("137", "104", "cubone", "CFAC69");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("138", "105", "marowak-alolan", "5B5163");
+VALUES ("138", "105", "marowak", "CDA964");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("139", "105", "marowak", "CDA964");
+VALUES ("139", "105", "marowak-alolan", "5B5163");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("140", "106", "hitmonlee", "CEA885");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -321,21 +321,21 @@ VALUES ("160", "125", "electabuzz", "E4D23D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("161", "126", "magmar", "FD693A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("162", "127", "megapinsir", "C7B6A6");
+VALUES ("162", "127", "pinsir", "C9B393");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("163", "127", "pinsir", "C9B393");
+VALUES ("163", "127", "megapinsir", "C7B6A6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("164", "128", "tauros", "D49F4E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("165", "129", "magikarp", "F87731");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("166", "130", "gyarados-s", "E4575A");
+VALUES ("166", "130", "gyarados", "27B0CE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("167", "130", "megagyarados", "29809E");
+VALUES ("167", "130", "gyarados-s", "E4575A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("168", "130", "megagyarados-s", "A25265");
+VALUES ("168", "130", "megagyarados", "29809E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("169", "130", "gyarados", "27B0CE");
+VALUES ("169", "130", "megagyarados-s", "A25265");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("170", "131", "lapras", "5BACE0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -379,11 +379,11 @@ VALUES ("189", "149", "dragonite", "E8B657");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("190", "150", "mewtwo", "DACAE6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("191", "150", "megamewtwo-y", "E1D8E3");
+VALUES ("191", "150", "mewtwo-s", "D6DCD1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("192", "150", "megamewtwo-x", "DFD6E1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("193", "150", "mewtwo-s", "D6DCD1");
+VALUES ("193", "150", "megamewtwo-y", "E1D8E3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("194", "151", "mew", "FEB4D6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -463,9 +463,9 @@ VALUES ("231", "184", "azumarill", "699FE8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("232", "185", "sudowoodo", "AC9355");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("233", "186", "politoed-s", "84C2F6");
+VALUES ("233", "186", "politoed", "9BCC2E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("234", "186", "politoed", "9BCC2E");
+VALUES ("234", "186", "politoed-s", "84C2F6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("235", "187", "hoppip", "F77F7F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -501,9 +501,9 @@ VALUES ("250", "201", "unownus", "727272");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("251", "202", "wobbuffet", "4EA4DB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("252", "203", "girafarig2", "A38A6C");
+VALUES ("252", "203", "girafarig", "E7D65A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("253", "203", "girafarig", "E7D65A");
+VALUES ("253", "203", "girafarig2", "A38A6C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("254", "204", "pineco", "4FA9A5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -529,9 +529,9 @@ VALUES ("264", "212", "megascizor", "B9625B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("265", "213", "shuckle", "E9644E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("266", "214", "megaheracross", "415E81");
+VALUES ("266", "214", "heracross", "6C93C3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("267", "214", "heracross", "6C93C3");
+VALUES ("267", "214", "megaheracross", "415E81");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("268", "215", "sneasel", "4692AB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -573,9 +573,9 @@ VALUES ("286", "232", "donphan", "BDC6C1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("287", "233", "porygon2", "CB6B65");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("288", "234", "stantler-shiny", "B3E268");
+VALUES ("288", "234", "stantler", "E6B65C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("289", "234", "stantler", "E6B65C");
+VALUES ("289", "234", "stantler-shiny", "B3E268");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("290", "235", "smeargle", "DFDBB6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -603,29 +603,29 @@ VALUES ("301", "246", "larvitar", "AEC999");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("302", "247", "pupitar", "8AC2E9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("303", "248", "megatyranitar", "A1B678");
+VALUES ("303", "248", "tyranitar", "A5C89D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("304", "248", "tyranitar", "A5C89D");
+VALUES ("304", "248", "megatyranitar", "A1B678");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("305", "249", "lugia", "F4F5FC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("306", "249", "lugia-shdw", "646697");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("307", "250", "ho-oh-rainbow", "F45220");
+VALUES ("307", "250", "ho-oh", "F75427");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("308", "250", "ho-oh", "F75427");
+VALUES ("308", "250", "ho-oh-rainbow", "F45220");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("309", "251", "celebi2", "D8E6BC");
+VALUES ("309", "251", "celebi", "D4E3B5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("310", "251", "celebi", "D4E3B5");
+VALUES ("310", "251", "celebi2", "D8E6BC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("311", "252", "treecko", "9DD04D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("312", "253", "grovyle", "8CC476");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("313", "254", "megasceptile", "85BC76");
+VALUES ("313", "254", "sceptile", "82C966");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("314", "254", "sceptile", "82C966");
+VALUES ("314", "254", "megasceptile", "85BC76");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("315", "255", "torchic", "FD8340");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -639,11 +639,11 @@ VALUES ("319", "258", "mudkip", "66B5DE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("320", "259", "marshtomp", "7CB6B5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("321", "260", "swampert-s", "D47AC2");
+VALUES ("321", "260", "swampert", "66A2D3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("322", "260", "megaswampert", "90A0AB");
+VALUES ("322", "260", "swampert-s", "D47AC2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("323", "260", "swampert", "66A2D3");
+VALUES ("323", "260", "megaswampert", "90A0AB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("324", "261", "poochyena", "B8B0C1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -735,17 +735,17 @@ VALUES ("367", "302", "sableye", "8C76D5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("368", "302", "megasableye", "905A8E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("369", "303", "megamawile", "6A5E5E");
+VALUES ("369", "303", "mawile", "655E56");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("370", "303", "mawile", "655E56");
+VALUES ("370", "303", "megamawile", "6A5E5E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("371", "304", "aron", "A2A9B1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("372", "305", "lairon", "848383");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("373", "306", "megaaggron", "919AA8");
+VALUES ("373", "306", "aggron", "848383");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("374", "306", "aggron", "848383");
+VALUES ("374", "306", "megaaggron", "919AA8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("375", "307", "meditite", "7AAFCE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -755,9 +755,9 @@ VALUES ("377", "308", "megamedicham", "D7D4D7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("378", "309", "electrike", "8AD477");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("379", "310", "megamanectric", "8DBDAA");
+VALUES ("379", "310", "manectric", "89BCC4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("380", "310", "manectric", "89BCC4");
+VALUES ("380", "310", "megamanectric", "8DBDAA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("381", "311", "plusle", "FCE4BC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -785,9 +785,9 @@ VALUES ("392", "321", "wailord", "6B9CE8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("393", "322", "numel", "F2DD59");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("394", "323", "megacamerupt", "D5816F");
+VALUES ("394", "323", "camerupt", "DF782E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("395", "323", "camerupt", "DF782E");
+VALUES ("395", "323", "megacamerupt", "D5816F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("396", "324", "torkoal", "E69A6E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -801,9 +801,9 @@ VALUES ("400", "328", "trapinch", "EC9C4D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("401", "329", "vibrava", "E1EB99");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("402", "330", "flygon-s", "ACD774");
+VALUES ("402", "330", "flygon", "AED574");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("403", "330", "flygon", "AED574");
+VALUES ("403", "330", "flygon-s", "ACD774");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("404", "331", "cacnea", "9CCD62");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -847,13 +847,13 @@ VALUES ("423", "349", "feebas", "CFC88C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("424", "350", "milotic", "F1D6AF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("425", "351", "castform-s", "F28B57");
+VALUES ("425", "351", "castform-h", "8E8ECC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("426", "351", "castform-r", "7F98D5");
+VALUES ("426", "351", "castform-n", "E5DDDE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("427", "351", "castform-h", "8E8ECC");
+VALUES ("427", "351", "castform-r", "7F98D5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("428", "351", "castform-n", "E5DDDE");
+VALUES ("428", "351", "castform-s", "F28B57");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("429", "352", "kecleon", "7FD483");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -871,9 +871,9 @@ VALUES ("435", "357", "tropius", "8C7748");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("436", "358", "chimecho", "C6E3FA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("437", "359", "megaabsol", "F6F7FA");
+VALUES ("437", "359", "absol", "F8F8FB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("438", "359", "absol", "F8F8FB");
+VALUES ("438", "359", "megaabsol", "F6F7FA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("439", "360", "wynaut", "6CB7D6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -911,9 +911,9 @@ VALUES ("455", "374", "beldum", "5086CD");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("456", "375", "metang", "6297D2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("457", "376", "metagross-s", "C4C1C1");
+VALUES ("457", "376", "metagross", "5285D1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("458", "376", "metagross", "5285D1");
+VALUES ("458", "376", "metagross-s", "C4C1C1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("459", "376", "megametagross", "81B3C7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -923,17 +923,17 @@ VALUES ("461", "378", "regice", "80C1FA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("462", "379", "registeel", "959A95");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("463", "380", "megalatias", "CBCBD8");
+VALUES ("463", "380", "latias", "EEDDEC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("464", "380", "latias", "EEDDEC");
+VALUES ("464", "380", "megalatias", "CBCBD8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("465", "381", "latios", "D6DAE5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("466", "381", "megalatios", "CBCAD8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("467", "382", "primalkyogre", "5C5AA3");
+VALUES ("467", "382", "kyogre", "4A69B2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("468", "382", "kyogre", "4A69B2");
+VALUES ("468", "382", "primalkyogre", "5C5AA3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("469", "383", "groudon", "C85746");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -941,21 +941,21 @@ VALUES ("470", "383", "primalgroudon", "BC5B68");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("471", "384", "rayquaza", "55AF7D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("472", "384", "megarayquaza", "70A989");
+VALUES ("472", "384", "rayquaza-shiny", "7D7975");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("473", "384", "rayquaza-shiny", "7D7975");
+VALUES ("473", "384", "megarayquaza", "70A989");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("474", "385", "jirachi", "E6EBD5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("475", "385", "jirachi2", "E5EAD0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("476", "386", "deoxys-d", "F17755");
+VALUES ("476", "386", "deoxys-a", "EE7654");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("477", "386", "deoxys-s", "EB7654");
+VALUES ("477", "386", "deoxys-d", "F17755");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("478", "386", "deoxys-a", "EE7654");
+VALUES ("478", "386", "deoxys-n", "F27653");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("479", "386", "deoxys-n", "F27653");
+VALUES ("479", "386", "deoxys-s", "EB7654");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("480", "387", "turtwig", "ACC97E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1009,9 +1009,9 @@ VALUES ("504", "411", "bastiodon", "C6AA7C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("505", "412", "burmy-plant", "567644");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("506", "412", "burmy-trash", "E7919A");
+VALUES ("506", "412", "burmy-sandy", "D0C072");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("507", "412", "burmy-sandy", "D0C072");
+VALUES ("507", "412", "burmy-trash", "E7919A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("508", "413", "wormadam-plant", "7B9B4F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1033,17 +1033,17 @@ VALUES ("516", "419", "floatzel", "ED9230");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("517", "420", "cherubi", "D36B80");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("518", "421", "cherrim-sunny", "F6D47D");
+VALUES ("518", "421", "cherrim-overcast", "845DA7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("519", "421", "cherrim-overcast", "845DA7");
+VALUES ("519", "421", "cherrim-sunny", "F6D47D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("520", "422", "shellos-w", "FD94C5");
+VALUES ("520", "422", "shellos-e", "78B7E5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("521", "422", "shellos-e", "78B7E5");
+VALUES ("521", "422", "shellos-w", "FD94C5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("522", "423", "gastrodon-w", "F088AD");
+VALUES ("522", "423", "gastrodon-e", "4DB4D5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("523", "423", "gastrodon-e", "4DB4D5");
+VALUES ("523", "423", "gastrodon-w", "F088AD");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("524", "424", "ambipom", "BA71D3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1053,9 +1053,9 @@ VALUES ("526", "426", "drifblim", "A77ED6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("527", "427", "buneary", "BA8454");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("528", "428", "megalopunny", "A7786A");
+VALUES ("528", "428", "lopunny", "C1925F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("529", "428", "lopunny", "C1925F");
+VALUES ("529", "428", "megalopunny", "A7786A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("530", "429", "mismagius", "6E4B94");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1097,13 +1097,13 @@ VALUES ("548", "446", "munchlax", "3D8098");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("549", "447", "riolu", "4D97E0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("550", "448", "megalucario", "5D95CB");
+VALUES ("550", "448", "lucario", "4F95D9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("551", "448", "lucario", "4F95D9");
+VALUES ("551", "448", "megalucario", "5D95CB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("552", "449", "hippopotas-m", "D9C072");
+VALUES ("552", "449", "hippopotas-f", "8C6B2B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("553", "449", "hippopotas-f", "8C6B2B");
+VALUES ("553", "449", "hippopotas-m", "D9C072");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("554", "450", "hippowdon-f", "7F7180");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1159,9 +1159,9 @@ VALUES ("579", "473", "mamoswine", "AD8A71");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("580", "474", "porygon-z", "C16E71");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("581", "475", "megagallade", "E1E9ED");
+VALUES ("581", "475", "gallade", "E0E7EE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("582", "475", "gallade", "E0E7EE");
+VALUES ("582", "475", "megagallade", "E1E9ED");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("583", "476", "probopass", "716DA4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1169,17 +1169,17 @@ VALUES ("584", "477", "dusknoir", "716665");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("585", "478", "froslass", "F4F4F7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("586", "479", "rotom-normal-alt", "64C2B8");
+VALUES ("586", "479", "rotom-fan", "EECD53");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("587", "479", "rotom-frost", "CC6FC8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("588", "479", "rotom-fan", "EECD53");
+VALUES ("588", "479", "rotom-heat", "E95344");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("589", "479", "rotom-heat", "E95344");
+VALUES ("589", "479", "rotom-mow", "89CB6B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("590", "479", "rotom-normal", "E17C3B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("591", "479", "rotom-mow", "89CB6B");
+VALUES ("591", "479", "rotom-normal-alt", "64C2B8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("592", "479", "rotom-wash", "6276D1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1197,9 +1197,9 @@ VALUES ("598", "485", "heatran", "B16D58");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("599", "486", "regigigas", "DEDFCA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("600", "487", "giratina-origin", "8E8279");
+VALUES ("600", "487", "giratina-altered", "95877F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("601", "487", "giratina-altered", "95877F");
+VALUES ("601", "487", "giratina-origin", "8E8279");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("602", "488", "cresselia", "F2C880");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1209,9 +1209,9 @@ VALUES ("604", "490", "manaphy", "6DC3F0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("605", "491", "darkrai", "615455");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("606", "492", "shaymin-fly", "F7F4E8");
+VALUES ("606", "492", "shaymin", "E7E8D3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("607", "492", "shaymin", "E7E8D3");
+VALUES ("607", "492", "shaymin-fly", "F7F4E8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("608", "493", "arceus", "E1E1D9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1221,17 +1221,17 @@ VALUES ("610", "495", "snivy", "71BA5E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("611", "496", "servine", "EAEFAD");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("612", "497", "serperior-s", "A2E076");
+VALUES ("612", "497", "serperior", "90CE8F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("613", "497", "serperior", "90CE8F");
+VALUES ("613", "497", "serperior-s", "A2E076");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("614", "498", "tepig", "DF7F3A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("615", "499", "pignite", "DA712D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("616", "500", "emboar-s", "C48755");
+VALUES ("616", "500", "emboar", "CD6528");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("617", "500", "emboar", "CD6528");
+VALUES ("617", "500", "emboar-s", "C48755");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("618", "501", "oshawott", "92C2CB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1273,9 +1273,9 @@ VALUES ("636", "519", "pidove", "AAA8A7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("637", "520", "tranquill", "A3A0A0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("638", "521", "unfezant-m", "A7A1A4");
+VALUES ("638", "521", "unfezant-f", "A6A5A4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("639", "521", "unfezant-f", "A6A5A4");
+VALUES ("639", "521", "unfezant-m", "A7A1A4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("640", "522", "blitzle", "5C5D5D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1295,9 +1295,9 @@ VALUES ("647", "529", "drilbur", "74778A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("648", "530", "excadrill", "6F5A53");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("649", "531", "megaaudino", "F7F4F1");
+VALUES ("649", "531", "audino", "EFCFA7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("650", "531", "audino", "EFCFA7");
+VALUES ("650", "531", "megaaudino", "F7F4F1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("651", "532", "timburr", "C3B39C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1335,9 +1335,9 @@ VALUES ("667", "548", "petilil", "BEEA7C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("668", "549", "lilligant", "BFE074");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("669", "550", "basculin-red", "53A55F");
+VALUES ("669", "550", "basculin-blue", "4EA560");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("670", "550", "basculin-blue", "4EA560");
+VALUES ("670", "550", "basculin-red", "53A55F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("671", "551", "sandile", "B89159");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1413,17 +1413,17 @@ VALUES ("706", "585", "deerling-fall", "EE912C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("707", "585", "deerling-spring", "FDA7AA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("708", "585", "deerling-winter", "B6916A");
+VALUES ("708", "585", "deerling-summer", "5ABA4E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("709", "585", "deerling-summer", "5ABA4E");
+VALUES ("709", "585", "deerling-winter", "B6916A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("710", "586", "sawsbuck-autumn", "8B5935");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("711", "586", "sawsbuck-summer", "6F6234");
+VALUES ("711", "586", "sawsbuck-spring", "815F35");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("712", "586", "sawsbuck-winter", "8A6C47");
+VALUES ("712", "586", "sawsbuck-summer", "6F6234");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("713", "586", "sawsbuck-spring", "815F35");
+VALUES ("713", "586", "sawsbuck-winter", "8A6C47");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("714", "587", "emolga", "EFEBDA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1435,9 +1435,9 @@ VALUES ("717", "590", "foongus", "F4E8D7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("718", "591", "amoonguss", "C2ACB1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("719", "592", "frillish-male", "89D5FE");
+VALUES ("719", "592", "frillish-female", "FEB8D6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("720", "592", "frillish-female", "FEB8D6");
+VALUES ("720", "592", "frillish-male", "89D5FE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("721", "593", "jellicent-female", "FEB3D6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1493,9 +1493,9 @@ VALUES ("746", "616", "shelmet", "C1B6C7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("747", "617", "accelgor", "747EBA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("748", "618", "stunfisk-smile", "D29E79");
+VALUES ("748", "618", "stunfisk", "D29F79");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("749", "618", "stunfisk", "D29F79");
+VALUES ("749", "618", "stunfisk-smile", "D29E79");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("750", "619", "mienfoo", "F3E38A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1545,39 +1545,39 @@ VALUES ("772", "640", "virizion", "E7EDC1");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("773", "640", "virizion-shiny", "F3E4CD");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("774", "641", "tornadus-t", "589754");
+VALUES ("774", "641", "tornadus", "6A9962");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("775", "641", "tornadus", "6A9962");
+VALUES ("775", "641", "tornadus-t", "589754");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("776", "642", "thundurus", "71B6E3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("777", "642", "thundurus-t", "76C0F6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("778", "643", "reshiram-shiny", "FCFBF9");
+VALUES ("778", "643", "reshiram", "FBFBFC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("779", "643", "reshiram", "FBFBFC");
+VALUES ("779", "643", "reshiram-shiny", "FCFBF9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("780", "644", "zekrom", "2F2F37");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("781", "644", "zekrom-s", "36555C");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("782", "645", "landorus-t", "ED8F64");
+VALUES ("782", "645", "landorus", "E4875D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("783", "645", "landorus", "E4875D");
+VALUES ("783", "645", "landorus-t", "ED8F64");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("784", "646", "kyurem", "A3AEBC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("785", "646", "kyurem-black-s", "8D9CAE");
+VALUES ("785", "646", "kyurem-black", "8E9AAB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("786", "646", "kyurem-white", "A8B2C2");
+VALUES ("786", "646", "kyurem-black-s", "8D9CAE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("787", "646", "kyurem-white-s", "A9ADB6");
+VALUES ("787", "646", "kyurem-white", "A8B2C2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("788", "646", "kyurem-black", "8E9AAB");
+VALUES ("788", "646", "kyurem-white-s", "A9ADB6");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("789", "647", "keldeo-resolute", "E5DAB3");
+VALUES ("789", "647", "keldeo", "E7E0B9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("790", "647", "keldeo", "E7E0B9");
+VALUES ("790", "647", "keldeo-resolute", "E5DAB3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("791", "648", "meloetta-a", "EBF1DF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1621,43 +1621,43 @@ VALUES ("810", "666", "vivillon", "D990AF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("811", "667", "litleo", "675850");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("812", "668", "pyroar-m", "E2B68A");
+VALUES ("812", "668", "pyroar-f", "DFC195");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("813", "668", "pyroar-f", "DFC195");
+VALUES ("813", "668", "pyroar-m", "E2B68A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("814", "669", "flabebe-orange", "F3EBD9");
+VALUES ("814", "669", "flabebe-blue", "DBE8E2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("815", "669", "flabebe-yellow", "F4F4E2");
+VALUES ("815", "669", "flabebe-orange", "F3EBD9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("816", "669", "flabebe-white", "F4F6EB");
+VALUES ("816", "669", "flabebe-red", "EFE3D9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("817", "669", "flabebe-blue", "DBE8E2");
+VALUES ("817", "669", "flabebe-white", "F4F6EB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("818", "669", "flabebe-red", "EFE3D9");
+VALUES ("818", "669", "flabebe-yellow", "F4F4E2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("819", "670", "floette-red", "F0E8DF");
+VALUES ("819", "670", "floette-az", "E7E5E3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("820", "670", "floette-blue", "DDEDE8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("821", "670", "floette-yellow", "F4F8E7");
+VALUES ("821", "670", "floette-orange", "F3F0DF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("822", "670", "floette-az", "E7E5E3");
+VALUES ("822", "670", "floette-red", "F0E8DF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("823", "670", "floette-white", "F3F9EE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("824", "670", "floette-orange", "F3F0DF");
+VALUES ("824", "670", "floette-yellow", "F4F8E7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("825", "671", "florges-red", "DCE5E5");
+VALUES ("825", "671", "florges-az", "DFDBE7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("826", "671", "florges-az", "DFDBE7");
+VALUES ("826", "671", "florges-blue", "CBE9EA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("827", "671", "florges-yellow", "DFF1E7");
+VALUES ("827", "671", "florges-orange", "DEEAE3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("828", "671", "florges-orange", "DEEAE3");
+VALUES ("828", "671", "florges-red", "DCE5E5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("829", "671", "florges-white", "DFF2EF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("830", "671", "florges-blue", "CBE9EA");
+VALUES ("830", "671", "florges-yellow", "DFF1E7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("831", "672", "skiddo", "868C7B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1669,13 +1669,13 @@ VALUES ("834", "675", "pangoro", "6D6E74");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("835", "676", "furfrou", "DDE7D9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("836", "677", "espurr2", "B6B4CA");
+VALUES ("836", "677", "espurr", "B5B2C9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("837", "677", "espurr", "B5B2C9");
+VALUES ("837", "677", "espurr2", "B6B4CA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("838", "678", "meowstic-m", "48669B");
+VALUES ("838", "678", "meowstic-f", "EDF0F4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("839", "678", "meowstic-f", "EDF0F4");
+VALUES ("839", "678", "meowstic-m", "48669B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("840", "679", "honedge", "9D9486");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1721,17 +1721,17 @@ VALUES ("860", "697", "tyrantrum", "AF6E6A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("861", "698", "amaura", "9BCDEA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("862", "699", "aurorus-s", "E8F2F4");
+VALUES ("862", "699", "aurorus", "A5C1E2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("863", "699", "aurorus-s-alt", "D9EDF9");
+VALUES ("863", "699", "aurorus-alt", "95BCE7");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("864", "699", "aurorus", "A5C1E2");
+VALUES ("864", "699", "aurorus-s", "E8F2F4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("865", "699", "aurorus-alt", "95BCE7");
+VALUES ("865", "699", "aurorus-s-alt", "D9EDF9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("866", "700", "sylveon-alt", "FAECF0");
+VALUES ("866", "700", "sylveon", "F9EAEE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("867", "700", "sylveon", "F9EAEE");
+VALUES ("867", "700", "sylveon-alt", "FAECF0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("868", "701", "hawlucha", "E9EAE4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1751,9 +1751,9 @@ VALUES ("875", "708", "phantump", "514E48");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("876", "709", "trevenant", "9B8F76");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("877", "710", "pumpkaboo-alt", "DEA185");
+VALUES ("877", "710", "pumpkaboo", "7F6E5B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("878", "710", "pumpkaboo", "7F6E5B");
+VALUES ("878", "710", "pumpkaboo-alt", "DEA185");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("879", "711", "gourgeist", "836B5B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1765,25 +1765,25 @@ VALUES ("882", "714", "noibat", "B19AC0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("883", "715", "noivern", "5B525A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("884", "716", "xerneas-n", "7D90B9");
+VALUES ("884", "716", "xerneas", "8290B5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("885", "716", "xerneas", "8290B5");
+VALUES ("885", "716", "xerneas-n", "7D90B9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("886", "717", "yveltal", "CA5037");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("887", "718", "zygarde-dog", "4A4740");
+VALUES ("887", "718", "zygarde", "839F41");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("888", "718", "zygarde-complete", "59554A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("889", "718", "zygarde", "839F41");
+VALUES ("889", "718", "zygarde-dog", "4A4740");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("890", "719", "diancie", "F0E2EA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("891", "719", "megadiancie", "F5EFF3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("892", "720", "hoopa-unbound", "ABB4CC");
+VALUES ("892", "720", "hoopa", "B7B3CF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("893", "720", "hoopa", "B7B3CF");
+VALUES ("893", "720", "hoopa-unbound", "ABB4CC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("894", "721", "volcanion", "933F41");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1825,13 +1825,13 @@ VALUES ("912", "739", "crabrawler", "8073AC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("913", "740", "crabominable", "E2E8EE");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("914", "741", "oricorio-purple", "9F9ECB");
+VALUES ("914", "741", "oricorio-pink", "ED92A4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("915", "741", "oricorio-red", "DD545F");
+VALUES ("915", "741", "oricorio-purple", "9F9ECB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("916", "741", "oricorio-yellow", "F1ED99");
+VALUES ("916", "741", "oricorio-red", "DD545F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("917", "741", "oricorio-pink", "ED92A4");
+VALUES ("917", "741", "oricorio-yellow", "F1ED99");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("918", "742", "cutiefly", "F0E28D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1839,15 +1839,15 @@ VALUES ("919", "743", "ribombee", "E6D575");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("920", "744", "rockruff", "CAA998");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("921", "745", "lycanroc-midnight", "B3545D");
+VALUES ("921", "745", "lycanroc-dusk", "ED995B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("922", "745", "lycanroc-midday", "D5BFB3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("923", "745", "lycanroc-dusk", "ED995B");
+VALUES ("923", "745", "lycanroc-midnight", "B3545D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("924", "746", "wishiwashi-alt", "466CA8");
+VALUES ("924", "746", "wishiwashi", "F5F7FA");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("925", "746", "wishiwashi", "F5F7FA");
+VALUES ("925", "746", "wishiwashi-alt", "466CA8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("926", "747", "mareanie", "A19FC5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1903,21 +1903,21 @@ VALUES ("951", "772", "typenull", "413A36");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("952", "773", "silvally", "64615F");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("953", "774", "minior-blue", "36BFE3");
+VALUES ("953", "774", "minior", "A4837D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("954", "774", "minior-red", "E679A2");
+VALUES ("954", "774", "minior-blue", "36BFE3");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("955", "774", "minior", "A4837D");
+VALUES ("955", "774", "minior-green", "98CD7B");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("956", "774", "minior-lblue", "A9DDEF");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("957", "774", "minior-yellow", "FFF671");
+VALUES ("957", "774", "minior-orange", "F7B54D");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("958", "774", "minior-green", "98CD7B");
+VALUES ("958", "774", "minior-purple", "C099C5");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("959", "774", "minior-orange", "F7B54D");
+VALUES ("959", "774", "minior-red", "E679A2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("960", "774", "minior-purple", "C099C5");
+VALUES ("960", "774", "minior-yellow", "FFF671");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("961", "775", "komala", "ABB8C8");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1957,9 +1957,9 @@ VALUES ("978", "791", "solgaleo", "F7F3EC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("979", "791", "solgaleo-sun", "FBF9EB");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("980", "792", "lunala-moon", "C7DFE2");
+VALUES ("980", "792", "lunala", "674A8A");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("981", "792", "lunala", "674A8A");
+VALUES ("981", "792", "lunala-moon", "C7DFE2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("982", "793", "nihilego", "EAECF0");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
@@ -1977,19 +1977,19 @@ VALUES ("988", "799", "guzzlord", "545E5E");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("989", "800", "necrozma", "353233");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("990", "800", "necrozma-ultra", "FBFAEC");
+VALUES ("990", "800", "necrozma-dm", "E2DDD2");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("991", "800", "necrozma-dm", "E2DDD2");
+VALUES ("991", "800", "necrozma-dw", "BFCCD4");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("992", "800", "necrozma-dw", "BFCCD4");
+VALUES ("992", "800", "necrozma-ultra", "FBFAEC");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("993", "801", "magearna-orig", "DCC489");
+VALUES ("993", "801", "magearna", "DDD4D9");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("994", "801", "magearna", "DDD4D9");
+VALUES ("994", "801", "magearna-orig", "DCC489");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("995", "802", "marshadow-alt", "727778");
+VALUES ("995", "802", "marshadow", "6E6F74");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
-VALUES ("996", "802", "marshadow", "6E6F74");
+VALUES ("996", "802", "marshadow-alt", "727778");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)
 VALUES ("997", "803", "poipole", "5C4194");
 INSERT INTO pokemon_wallpaper (id, pokemon_id, image, primary_color)

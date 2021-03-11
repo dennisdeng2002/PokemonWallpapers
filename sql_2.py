@@ -47,8 +47,17 @@ for entry in scandir(input_path):
 sorted_dict = dict(sorted(unsorted_dict.items()))
 counter = 1
 
+# Dirty hax
+def sorting(wallpaper):
+    wallpaper_image, _ = wallpaper
+    if wallpaper_image.startswith('mega') or wallpaper_image.startswith('primal'):
+        return wallpaper_image
+    
+    return wallpaper_image.upper()
+
+
 for pokemon_id, wallpaper_list in sorted_dict.items():
-    for wallpaper_image, hex_value in wallpaper_list:
+    for wallpaper_image, hex_value in sorted(wallpaper_list, key=sorting):
         sqlite = sqlite_template.format(counter, pokemon_id, wallpaper_image, hex_value)
         print('Wrote {} values!'.format(counter))
         counter += 1
